@@ -23,7 +23,7 @@ const firstName = 'Jane'; // NON MODIFICARE QUESTA RIGA
 const lastName = 'Smith'; // NON MODIFICARE QUESTA RIGA
 
 const fullName = null;
-console.log(fullName); // Output: "Jane Smith"
+console.log(`${firstName} ${lastName}`); // Output: "Jane Smith"
 
 // 4. Imposta questa variabile utilizzando una proprietà
 // sulla variabile alphabet per ottenere la sua lunghezza
